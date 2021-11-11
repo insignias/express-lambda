@@ -21,5 +21,8 @@
   "dependencies": {
     "@vendia/serverless-express": "^4.5.2",
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@aws-cdk/aws-apigatewayv2": "^1.132.0"
   }
 }
