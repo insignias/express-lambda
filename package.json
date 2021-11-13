@@ -20,6 +20,9 @@
   "homepage": "https://github.com/insignias/express-lambda#readme",
   "dependencies": {
     "@vendia/serverless-express": "^4.5.2",
-    "express": "^4.17.1"
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "jest": "^27.3.1",
+    "jest-junit": "^13.0.0"
   }
 }
